@@ -1,0 +1,9 @@
+.btn-green {
+	background-color: #E0AA53;
+	padding: 12px 15px 12px;
+	border-radius: 6px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
